@@ -23,6 +23,10 @@ app.get('/api/products',(req,res)=>{
     res.send({products:products,status:true});
 });
 
+app.get('/api/home',(req,res)=>{
+    res.send("this is home page api");
+});
+
 app.listen(PORT,(req,res)=>{
     console.log(`App is running on ${PORT}`)
 });
