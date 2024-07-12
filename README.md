@@ -1,3 +1,4 @@
+# Commands
 1. aws ec2 instance
 2. push code into GitHub
 3. configure action on GitHub
