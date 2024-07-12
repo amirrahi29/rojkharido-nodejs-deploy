@@ -12,6 +12,10 @@ const products = [
     {
         id: 2,
         name:'product2',
+    },
+    {
+        id: 3,
+        name:'product3',
     }
 ]
 
